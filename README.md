@@ -73,4 +73,35 @@ git commit -m "mensagem de comentario"
 git push
 ```
 
+`> uma boa documentação explica o objetivo ,o uso e as limitaçoes de um projeto.`
+
+> uma boa documentação explica o objetivo ,o uso e as limitaçoes de um projeto.
+
+
+## Tabelas
+
+| tecnologia | fidelidade |
+| --- | --- |
+| git | controle de versões |
+
+```
+| tecnologia | fidelidade |
+| --- | --- |
+| git | controle de versões |
+```
+
+| Esquerda | centro | direita |
+| :--- | :---: | ---: |
+| texto | texto | texto |
+
+## Imagens
+
+![blac hole](./iWbt6ewM92P2v22WEmcDoi.jpg)
+
+
+
+
+
+
+
 
